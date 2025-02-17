@@ -1,0 +1,99 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using A24Shopping.Models.ViewModels
+@model CartItemViewModel
+
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success notification">
+        @TempData["success"]
+    </div>
+}
+
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-danger notification">
+        @TempData["error"]
+    </div>
+}
+
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                <li class="active">Shopping Cart</li>
+            </ol>
+        </div>
+        <div class="table-responsive cart_info">
+            <table class="table table-condensed">
+                <thead>
+                    <tr class="cart_menu">
+                        <td class="image">Items</td>
+                        <td class="description">Name</td>
+                        <td class="price">Price</td>
+                        <td class="quantity">Quantity</td>
+                        <td class="total">Total</td>
+                        <td class="actions">Actions</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.CartItems.Count > 0)
+                    {
+                        @foreach (var item in Model.CartItems)
+                        {
+                            <tr>
+                                <td class="cart_product">
+                                    <a href="#"><img src="~/media/products/@item.Image" width="120" alt=""></a>
+                                </td>
+                                <td class="cart_description">
+                                    <h4><a href="#">@item.ProductName</a></h4>
+                                </td>
+                                <td class="cart_price">
+                                    <p>@item.Price.ToString("C")</p>
+                                </td>
+                                <td class="cart_quantity">
+                                    <a class="btn btn-primary btn-sm" asp-controller="Cart" asp-action="Increase" asp-route-id="@item.ProductId"> + </a>
+                                    <input class="cart_quantity_input" type="text" name="quantity" value="@item.Quantity" autocomplete="off" size="2" readonly>
+                                    <a class="btn btn-success btn-sm" asp-controller="Cart" asp-action="Decrease" asp-route-id="@item.ProductId"> - </a>
+                                </td>
+                                <td class="cart_total">
+                                    <p class="cart_total_price">@((item.Quantity * item.Price).ToString("C"))</p>
+                                </td>
+                                <td class="cart_delete">
+                                    <a class="btn btn-danger btn-sm" asp-controller="Cart" asp-action="Remove" asp-route-id="@item.ProductId"> Remove </a>
+                                </td>
+                            </tr>
+                        }
+                        <tr>
+                            <td colspan="4"></td>
+                            <td colspan="2">
+                                <strong>Grand Total: </strong><p class="cart_total_price">@Model.GrandTotal.ToString("C")</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="4"></td>
+                            <td>
+                                <a class="btn btn-danger btn-sm" asp-controller="Cart" asp-action="Clear"> Clear </a>
+                            </td>
+                            <td>
+                                @if (User.Identity?.IsAuthenticated ?? false)
+                                {
+                                    <a class="btn btn-primary btn-sm" asp-controller="Checkout" asp-action="Checkout"> Checkout </a>
+                                }
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        <tr>
+                            <td colspan="6"><h4>Your cart is Empty.</h4></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>

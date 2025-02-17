@@ -1,0 +1,721 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\A24Shopping.bundle.scp.css",
+      "PackagePath": "staticwebassets\\A24Shopping.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\backend\\js\\site.js",
+      "PackagePath": "staticwebassets\\backend\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\templatemo-hexashop.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-hexashop.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\651fd4b3-3727-4f6c-94e9-5694e181e4ad_CDL4_1.jpg",
+      "PackagePath": "staticwebassets\\images\\651fd4b3-3727-4f6c-94e9-5694e181e4ad_CDL4_1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\Pull-on-Shorts.jpg",
+      "PackagePath": "staticwebassets\\images\\Pull-on-Shorts.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\cannes-shirt.jpg",
+      "PackagePath": "staticwebassets\\images\\cannes-shirt.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\chanel.jpg",
+      "PackagePath": "staticwebassets\\images\\chanel.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\classic-tee1.jpg",
+      "PackagePath": "staticwebassets\\images\\classic-tee1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\classic-tee2.jpg",
+      "PackagePath": "staticwebassets\\images\\classic-tee2.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\fb13cdd4-d3c9-458c-b6be-38618cc7b65f_levents-01.jpg",
+      "PackagePath": "staticwebassets\\images\\fb13cdd4-d3c9-458c-b6be-38618cc7b65f_levents-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\gucci.jpg",
+      "PackagePath": "staticwebassets\\images\\gucci.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\levents.jpg",
+      "PackagePath": "staticwebassets\\images\\levents.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\pilot-glasses.jpg",
+      "PackagePath": "staticwebassets\\images\\pilot-glasses.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\product1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\skinny-jean1.jpg",
+      "PackagePath": "staticwebassets\\images\\skinny-jean1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\kid-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\kid-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\kid-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\left-banner-image.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\men-01.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\men-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\men-02.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\men-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\men-03.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\men-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\thu gom\\white-logo.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\women-01.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\women-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\women-02.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\women-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\thu gom\\women-03.jpg",
+      "PackagePath": "staticwebassets\\images\\thu gom\\women-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\ultraboost.jpg",
+      "PackagePath": "staticwebassets\\images\\ultraboost.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\images\\white-logo.png"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\js\\accordions.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\js\\datepicker.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\js\\isotope.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\js\\lightbox.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\js\\quantity.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\3cf33521-5095-4898-b701-178ead93f44e_levents-01.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\3cf33521-5095-4898-b701-178ead93f44e_levents-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\5098a888-8e09-4963-87e2-c59eaa1af1da_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\5098a888-8e09-4963-87e2-c59eaa1af1da_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\86e8f3d6-2a7f-4c8d-8845-39785b81b1ba_levents-01.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\86e8f3d6-2a7f-4c8d-8845-39785b81b1ba_levents-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\9cf2d68a-7c80-4a86-bc27-e98ff22f332a_409508987_2064683023931179_7084277142120374609_n.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\9cf2d68a-7c80-4a86-bc27-e98ff22f332a_409508987_2064683023931179_7084277142120374609_n.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\b7a7e93b-bfd1-4572-b87b-9df9ebdbdab9_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\b7a7e93b-bfd1-4572-b87b-9df9ebdbdab9_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\bc65911d-05f7-4529-83c3-acafcafaebb5_CDL4_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\bc65911d-05f7-4529-83c3-acafcafaebb5_CDL4_1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\c3becf4f-769b-4c1f-b8f4-61c3d61d484a_levents-01.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\c3becf4f-769b-4c1f-b8f4-61c3d61d484a_levents-01.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\d9514a67-5e9d-4153-b2ab-d22a78800e92_CDL4_1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\d9514a67-5e9d-4153-b2ab-d22a78800e92_CDL4_1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\e2b22756-8bd8-4185-acf9-f3f948f396f1_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\e2b22756-8bd8-4185-acf9-f3f948f396f1_O1CN01qC6BgR2FJvpRICRIy_795618860-1.jpg"
+    },
+    {
+      "Id": "D:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\media\\products\\fb337117-58b3-4452-81c7-032329eae3af_levents-01.jpg",
+      "PackagePath": "staticwebassets\\media\\products\\fb337117-58b3-4452-81c7-032329eae3af_levents-01.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.A24Shopping.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.A24Shopping.props",
+      "PackagePath": "build\\A24Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.A24Shopping.props",
+      "PackagePath": "buildMultiTargeting\\A24Shopping.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.A24Shopping.props",
+      "PackagePath": "buildTransitive\\A24Shopping.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

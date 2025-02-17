@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Code\\A24Shopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CheckoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Controllers\\CheckoutController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_FSPFQ4A/A24_TestFinal/True/SqlTable/dbo.Categories.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mon\u0027s PC\\Downloads\\Compressed\\templatemo_571_hexashop\\checkout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Views\\Product\\AllProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Views\\Product\\AllProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Views\\Cart\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Views\\Account\\Login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\templatemo-hexashop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\wwwroot\\css\\templatemo-hexashop.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Program.cs",
+              "RelativeDocumentMoniker": "A24Shopping\\Program.cs",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Program.cs",
+              "RelativeToolTip": "A24Shopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T17:37:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.Categories.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_FSPFQ4A/A24_TestFinal/True/SqlTable/dbo.Categories.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_FSPFQ4A/A24_TestFinal/True/SqlTable/dbo.Categories.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T07:58:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "A24Shopping\\Controllers\\CheckoutController.cs",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "A24Shopping\\Controllers\\CheckoutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:36:42.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "A24Shopping\\Controllers\\CartController.cs",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Controllers\\CartController.cs",
+              "RelativeToolTip": "A24Shopping\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:33:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:52:31.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Product\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Views\\Product\\AllProduct.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Product\\AllProduct.cshtml",
+              "RelativeToolTip": "A24Shopping\\Views\\Product\\AllProduct.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwC0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:37:31.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "A24Shopping\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:31:11.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:24:25.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:17:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:15:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "A24Shopping\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:34:34.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "A24Shopping\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:55:16.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "A24Shopping\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:01:43.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewOrder.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Views\\Order\\ViewOrder.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:28:22.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "templatemo-hexashop.css",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\templatemo-hexashop.css",
+              "RelativeDocumentMoniker": "A24Shopping\\wwwroot\\css\\templatemo-hexashop.css",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\wwwroot\\css\\templatemo-hexashop.css",
+              "RelativeToolTip": "A24Shopping\\wwwroot\\css\\templatemo-hexashop.css",
+              "ViewState": "AQIAABAJAAAAAAAAAAAAAD8JAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-25T19:09:06.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "F:\\Code\\A24Shopping\\A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "A24Shopping\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:21:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "checkout.html",
+              "DocumentMoniker": "C:\\Users\\Mon\u0027s PC\\Downloads\\Compressed\\templatemo_571_hexashop\\checkout.html",
+              "ToolTip": "C:\\Users\\Mon\u0027s PC\\Downloads\\Compressed\\templatemo_571_hexashop\\checkout.html",
+              "ViewState": "AQIAAMMAAAAAAAAAAADwv9gAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-25T18:37:10.828Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
